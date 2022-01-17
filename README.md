@@ -1,1 +1,1 @@
-# calc-chap-3-ext-tech
+# calc-chapter-3-ext-tech
